@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision>=0.15
+
+# Optional (recommended for latent-space training like the paper):
+# diffusers>=0.25
+# transformers>=4.37
+# accelerate>=0.26
+
+# Optional (for FID computation):
+# torchmetrics>=1.2
+# scipy
+# numpy
